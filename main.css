@@ -1,0 +1,23 @@
+
+.container {
+    height: 50px;
+    background-color: black;
+    
+}
+h1 {
+    color:white;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.contains {
+    height: 700px;
+    background-image: url(4321141_s.jpg);
+    background-size: cover;
+}
+
+h2 {
+    font-size: 100px;
+    width: 600px;
+    margin: 0 auto;
+}
