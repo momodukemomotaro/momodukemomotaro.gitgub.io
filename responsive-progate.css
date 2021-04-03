@@ -1,0 +1,10 @@
+@media(max-width:1000px){
+    .topwrapper .container {
+        width:100%;
+        
+    }
+}
+
+@media(max-width:400px){
+    
+}
